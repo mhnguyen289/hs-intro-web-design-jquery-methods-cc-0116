@@ -2,7 +2,7 @@
             
 $(function(){
 
-//go to: http://api.jquery.com to read about each of the methods below and then set the apropriate button to apply the method to the content below it.
+//go to: http://api.jquery.com to read about each of the methods below and then set the apropriate button to apply the method to the content below it.comment
 
   //hide
   $("#b1").click(function(){
